@@ -44,6 +44,8 @@
   .row .box {
     padding: 20px;
     margin: 10px;
+    background-color: white;
+    border-radius: 15px;
   }
 
   .footer {
