@@ -63,3 +63,6 @@
     border: none;
     border-radius: 10%;
   }
+  h3.hover{
+    transition:0.2;
+  }
